@@ -1,0 +1,37 @@
+{
+  "dataset": "WSJ_02-21.pos train / WSJ_24.pos test",
+  "train_sentences": 39832,
+  "test_sentences": 1346,
+  "train_tokens": 950028,
+  "test_tokens": 32853,
+  "tags": 45,
+  "vocabulary": 23767,
+  "transition_matrix_shape": [
+    47,
+    47
+  ],
+  "emission_matrix_shape": [
+    45,
+    23775
+  ],
+  "alpha": 0.1,
+  "min_frequency": 2,
+  "hmm": {
+    "correct": 31259,
+    "total": 32853,
+    "accuracy": 0.9514808388883815,
+    "oov_total": 1385,
+    "oov_accuracy": 0.711913357400722
+  },
+  "nltk_bigram": {
+    "correct": 30735,
+    "total": 32853,
+    "accuracy": 0.9355310017350014
+  },
+  "delta_accuracy_pp": 1.595,
+  "hmm_evaluation_seconds": 1.599,
+  "nltk_train_evaluate_seconds": 9.572,
+  "total_seconds": 17.151,
+  "comparison_note": "Обидва тегери навчені на WSJ_02-21.pos та оцінені на WSJ_24.pos; POS-теги однакові.",
+  "limited": false
+}

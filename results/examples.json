@@ -1,0 +1,828 @@
+[
+  [
+    {
+      "word": "The",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "economy",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "'s",
+      "gold": "POS",
+      "hmm": "POS",
+      "nltk": "POS"
+    },
+    {
+      "word": "temperature",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "will",
+      "gold": "MD",
+      "hmm": "MD",
+      "nltk": "MD"
+    },
+    {
+      "word": "be",
+      "gold": "VB",
+      "hmm": "VB",
+      "nltk": "VB"
+    },
+    {
+      "word": "taken",
+      "gold": "VBN",
+      "hmm": "VBN",
+      "nltk": "VBN"
+    },
+    {
+      "word": "from",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "several",
+      "gold": "JJ",
+      "hmm": "JJ",
+      "nltk": "JJ"
+    },
+    {
+      "word": "vantage",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "points",
+      "gold": "NNS",
+      "hmm": "VBZ",
+      "nltk": "NNS"
+    },
+    {
+      "word": "this",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "week",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": ",",
+      "gold": ",",
+      "hmm": ",",
+      "nltk": ","
+    },
+    {
+      "word": "with",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "readings",
+      "gold": "NNS",
+      "hmm": "NNS",
+      "nltk": "NNS"
+    },
+    {
+      "word": "on",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "trade",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": ",",
+      "gold": ",",
+      "hmm": ",",
+      "nltk": ","
+    },
+    {
+      "word": "output",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": ",",
+      "gold": ",",
+      "hmm": ",",
+      "nltk": ","
+    },
+    {
+      "word": "housing",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "and",
+      "gold": "CC",
+      "hmm": "CC",
+      "nltk": "CC"
+    },
+    {
+      "word": "inflation",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": ".",
+      "gold": ".",
+      "hmm": ".",
+      "nltk": "."
+    }
+  ],
+  [
+    {
+      "word": "The",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "most",
+      "gold": "RBS",
+      "hmm": "RBS",
+      "nltk": "RBS"
+    },
+    {
+      "word": "troublesome",
+      "gold": "JJ",
+      "hmm": "JJ",
+      "nltk": "JJ"
+    },
+    {
+      "word": "report",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "may",
+      "gold": "MD",
+      "hmm": "MD",
+      "nltk": "MD"
+    },
+    {
+      "word": "be",
+      "gold": "VB",
+      "hmm": "VB",
+      "nltk": "VB"
+    },
+    {
+      "word": "the",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "August",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": "merchandise",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "trade",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "deficit",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "due",
+      "gold": "JJ",
+      "hmm": "JJ",
+      "nltk": "JJ"
+    },
+    {
+      "word": "out",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "tomorrow",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": ".",
+      "gold": ".",
+      "hmm": ".",
+      "nltk": "."
+    }
+  ],
+  [
+    {
+      "word": "The",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "trade",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "gap",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "is",
+      "gold": "VBZ",
+      "hmm": "VBZ",
+      "nltk": "VBZ"
+    },
+    {
+      "word": "expected",
+      "gold": "VBN",
+      "hmm": "VBN",
+      "nltk": "VBN"
+    },
+    {
+      "word": "to",
+      "gold": "TO",
+      "hmm": "TO",
+      "nltk": "TO"
+    },
+    {
+      "word": "widen",
+      "gold": "VB",
+      "hmm": "VB",
+      "nltk": "VB"
+    },
+    {
+      "word": "to",
+      "gold": "TO",
+      "hmm": "TO",
+      "nltk": "TO"
+    },
+    {
+      "word": "about",
+      "gold": "IN",
+      "hmm": "RB",
+      "nltk": "IN"
+    },
+    {
+      "word": "$",
+      "gold": "$",
+      "hmm": "$",
+      "nltk": "$"
+    },
+    {
+      "word": "9",
+      "gold": "CD",
+      "hmm": "CD",
+      "nltk": "CD"
+    },
+    {
+      "word": "billion",
+      "gold": "CD",
+      "hmm": "CD",
+      "nltk": "CD"
+    },
+    {
+      "word": "from",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "July",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": "'s",
+      "gold": "POS",
+      "hmm": "POS",
+      "nltk": "POS"
+    },
+    {
+      "word": "$",
+      "gold": "$",
+      "hmm": "$",
+      "nltk": "$"
+    },
+    {
+      "word": "7.6",
+      "gold": "CD",
+      "hmm": "CD",
+      "nltk": "CD"
+    },
+    {
+      "word": "billion",
+      "gold": "CD",
+      "hmm": "CD",
+      "nltk": "CD"
+    },
+    {
+      "word": ",",
+      "gold": ",",
+      "hmm": ",",
+      "nltk": ","
+    },
+    {
+      "word": "according",
+      "gold": "VBG",
+      "hmm": "VBG",
+      "nltk": "VBG"
+    },
+    {
+      "word": "to",
+      "gold": "TO",
+      "hmm": "TO",
+      "nltk": "TO"
+    },
+    {
+      "word": "a",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "survey",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "by",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "MMS",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": "International",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": ",",
+      "gold": ",",
+      "hmm": ",",
+      "nltk": ","
+    },
+    {
+      "word": "a",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "unit",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "of",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "McGraw-Hill",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": "Inc.",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": ",",
+      "gold": ",",
+      "hmm": ",",
+      "nltk": ","
+    },
+    {
+      "word": "New",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": "York",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": ".",
+      "gold": ".",
+      "hmm": ".",
+      "nltk": "."
+    }
+  ],
+  [
+    {
+      "word": "Thursday",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": "'s",
+      "gold": "POS",
+      "hmm": "POS",
+      "nltk": "POS"
+    },
+    {
+      "word": "report",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "on",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "the",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "September",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": "consumer",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "price",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "index",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "is",
+      "gold": "VBZ",
+      "hmm": "VBZ",
+      "nltk": "VBZ"
+    },
+    {
+      "word": "expected",
+      "gold": "VBN",
+      "hmm": "VBN",
+      "nltk": "VBN"
+    },
+    {
+      "word": "to",
+      "gold": "TO",
+      "hmm": "TO",
+      "nltk": "TO"
+    },
+    {
+      "word": "rise",
+      "gold": "VB",
+      "hmm": "VB",
+      "nltk": "VB"
+    },
+    {
+      "word": ",",
+      "gold": ",",
+      "hmm": ",",
+      "nltk": ","
+    },
+    {
+      "word": "although",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "not",
+      "gold": "RB",
+      "hmm": "RB",
+      "nltk": "RB"
+    },
+    {
+      "word": "as",
+      "gold": "RB",
+      "hmm": "RB",
+      "nltk": "IN"
+    },
+    {
+      "word": "sharply",
+      "gold": "RB",
+      "hmm": "RB",
+      "nltk": "RB"
+    },
+    {
+      "word": "as",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "the",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "0.9",
+      "gold": "CD",
+      "hmm": "CD",
+      "nltk": "CD"
+    },
+    {
+      "word": "%",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "gain",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "reported",
+      "gold": "VBN",
+      "hmm": "VBD",
+      "nltk": "VBD"
+    },
+    {
+      "word": "Friday",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": "in",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "the",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "producer",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "price",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "index",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": ".",
+      "gold": ".",
+      "hmm": ".",
+      "nltk": "."
+    }
+  ],
+  [
+    {
+      "word": "That",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "gain",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "was",
+      "gold": "VBD",
+      "hmm": "VBD",
+      "nltk": "VBD"
+    },
+    {
+      "word": "being",
+      "gold": "VBG",
+      "hmm": "VBG",
+      "nltk": "VBG"
+    },
+    {
+      "word": "cited",
+      "gold": "VBD",
+      "hmm": "VBN",
+      "nltk": "VBD"
+    },
+    {
+      "word": "as",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "a",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "reason",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "the",
+      "gold": "DT",
+      "hmm": "DT",
+      "nltk": "DT"
+    },
+    {
+      "word": "stock",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "market",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": "was",
+      "gold": "VBD",
+      "hmm": "VBD",
+      "nltk": "VBD"
+    },
+    {
+      "word": "down",
+      "gold": "IN",
+      "hmm": "RB",
+      "nltk": "RB"
+    },
+    {
+      "word": "early",
+      "gold": "RB",
+      "hmm": "RB",
+      "nltk": "JJ"
+    },
+    {
+      "word": "in",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "Friday",
+      "gold": "NNP",
+      "hmm": "NNP",
+      "nltk": "NNP"
+    },
+    {
+      "word": "'s",
+      "gold": "POS",
+      "hmm": "POS",
+      "nltk": "POS"
+    },
+    {
+      "word": "session",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": ",",
+      "gold": ",",
+      "hmm": ",",
+      "nltk": ","
+    },
+    {
+      "word": "before",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "it",
+      "gold": "PRP",
+      "hmm": "PRP",
+      "nltk": "PRP"
+    },
+    {
+      "word": "got",
+      "gold": "VBD",
+      "hmm": "VBD",
+      "nltk": "VBD"
+    },
+    {
+      "word": "started",
+      "gold": "VBN",
+      "hmm": "VBN",
+      "nltk": "VBN"
+    },
+    {
+      "word": "on",
+      "gold": "IN",
+      "hmm": "IN",
+      "nltk": "IN"
+    },
+    {
+      "word": "its",
+      "gold": "PRP$",
+      "hmm": "PRP$",
+      "nltk": "PRP$"
+    },
+    {
+      "word": "reckless",
+      "gold": "JJ",
+      "hmm": "JJ",
+      "nltk": "JJ"
+    },
+    {
+      "word": "190-point",
+      "gold": "JJ",
+      "hmm": "JJ",
+      "nltk": "JJ"
+    },
+    {
+      "word": "plunge",
+      "gold": "NN",
+      "hmm": "NN",
+      "nltk": "NN"
+    },
+    {
+      "word": ".",
+      "gold": ".",
+      "hmm": ".",
+      "nltk": "."
+    }
+  ]
+]

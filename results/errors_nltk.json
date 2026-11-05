@@ -1,0 +1,352 @@
+[
+  {
+    "sentence": 3,
+    "position": 16,
+    "word": "as",
+    "gold": "RB",
+    "prediction": "IN"
+  },
+  {
+    "sentence": 3,
+    "position": 23,
+    "word": "reported",
+    "gold": "VBN",
+    "prediction": "VBD"
+  },
+  {
+    "sentence": 4,
+    "position": 12,
+    "word": "down",
+    "gold": "IN",
+    "prediction": "RB"
+  },
+  {
+    "sentence": 4,
+    "position": 13,
+    "word": "early",
+    "gold": "RB",
+    "prediction": "JJ"
+  },
+  {
+    "sentence": 5,
+    "position": 7,
+    "word": "manufacturing",
+    "gold": "VBG",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 5,
+    "position": 15,
+    "word": "reports",
+    "gold": "NNS",
+    "prediction": "VBZ"
+  },
+  {
+    "sentence": 6,
+    "position": 4,
+    "word": "starts",
+    "gold": "NNS",
+    "prediction": "VBZ"
+  },
+  {
+    "sentence": 6,
+    "position": 13,
+    "word": "inched",
+    "gold": "VBN",
+    "prediction": "VBD"
+  },
+  {
+    "sentence": 8,
+    "position": 1,
+    "word": "widening",
+    "gold": "NN",
+    "prediction": "VBG"
+  },
+  {
+    "sentence": 10,
+    "position": 1,
+    "word": "Trade",
+    "gold": "NN",
+    "prediction": "NNP"
+  },
+  {
+    "sentence": 10,
+    "position": 7,
+    "word": "more",
+    "gold": "RBR",
+    "prediction": "JJR"
+  },
+  {
+    "sentence": 12,
+    "position": 2,
+    "word": "manufacturing",
+    "gold": "VBG",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 12,
+    "position": 9,
+    "word": "read",
+    "gold": "VBP",
+    "prediction": "VB"
+  },
+  {
+    "sentence": 12,
+    "position": 30,
+    "word": "more",
+    "gold": "JJR",
+    "prediction": "RBR"
+  },
+  {
+    "sentence": 12,
+    "position": 31,
+    "word": "comforting",
+    "gold": "VBG",
+    "prediction": "JJ"
+  },
+  {
+    "sentence": 12,
+    "position": 32,
+    "word": "total",
+    "gold": "JJ",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 13,
+    "position": 16,
+    "word": "run",
+    "gold": "VBD",
+    "prediction": "VB"
+  },
+  {
+    "sentence": 18,
+    "position": 12,
+    "word": "as",
+    "gold": "RB",
+    "prediction": "IN"
+  },
+  {
+    "sentence": 18,
+    "position": 13,
+    "word": "much",
+    "gold": "RB",
+    "prediction": "JJ"
+  },
+  {
+    "sentence": 20,
+    "position": 17,
+    "word": "far",
+    "gold": "JJ",
+    "prediction": "RB"
+  },
+  {
+    "sentence": 21,
+    "position": 1,
+    "word": "starts",
+    "gold": "NNS",
+    "prediction": "VBZ"
+  },
+  {
+    "sentence": 21,
+    "position": 5,
+    "word": "quicken",
+    "gold": "VB",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 21,
+    "position": 14,
+    "word": "1,350,000",
+    "gold": "CD",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 22,
+    "position": 8,
+    "word": "multifamily",
+    "gold": "RB",
+    "prediction": "JJ"
+  },
+  {
+    "sentence": 22,
+    "position": 15,
+    "word": "starts",
+    "gold": "NNS",
+    "prediction": "VBZ"
+  },
+  {
+    "sentence": 23,
+    "position": 0,
+    "word": "Two-Way",
+    "gold": "NNP",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 24,
+    "position": 2,
+    "word": "sixty-day",
+    "gold": "JJ",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 24,
+    "position": 3,
+    "word": "plant-closing",
+    "gold": "JJ",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 24,
+    "position": 5,
+    "word": "'s",
+    "gold": "VBZ",
+    "prediction": "POS"
+  },
+  {
+    "sentence": 24,
+    "position": 26,
+    "word": "quit",
+    "gold": "VBP",
+    "prediction": "VB"
+  },
+  {
+    "sentence": 25,
+    "position": 1,
+    "word": "Rollin",
+    "gold": "NNP",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 25,
+    "position": 3,
+    "word": "Trexler",
+    "gold": "NNP",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 26,
+    "position": 0,
+    "word": "Candid",
+    "gold": "NNP",
+    "prediction": "JJ"
+  },
+  {
+    "sentence": 26,
+    "position": 1,
+    "word": "Comment",
+    "gold": "NNP",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 27,
+    "position": 18,
+    "word": "down",
+    "gold": "IN",
+    "prediction": "RB"
+  },
+  {
+    "sentence": 28,
+    "position": 1,
+    "word": "C.E.",
+    "gold": "NNP",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 29,
+    "position": 6,
+    "word": "crash",
+    "gold": "VB",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 29,
+    "position": 16,
+    "word": "American",
+    "gold": "JJ",
+    "prediction": "NNP"
+  },
+  {
+    "sentence": 30,
+    "position": 1,
+    "word": "Capital",
+    "gold": "NNP",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 30,
+    "position": 13,
+    "word": "ago",
+    "gold": "IN",
+    "prediction": "RB"
+  },
+  {
+    "sentence": 30,
+    "position": 21,
+    "word": "Thames",
+    "gold": "NNP",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 31,
+    "position": 5,
+    "word": "long",
+    "gold": "JJ",
+    "prediction": "RB"
+  },
+  {
+    "sentence": 32,
+    "position": 2,
+    "word": "make",
+    "gold": "VB",
+    "prediction": "VBP"
+  },
+  {
+    "sentence": 32,
+    "position": 3,
+    "word": "that",
+    "gold": "DT",
+    "prediction": "IN"
+  },
+  {
+    "sentence": 33,
+    "position": 9,
+    "word": "Capital",
+    "gold": "NNP",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 33,
+    "position": 16,
+    "word": "Longman",
+    "gold": "NNP",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 33,
+    "position": 20,
+    "word": "mid-sized",
+    "gold": "JJ",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 33,
+    "position": 22,
+    "word": "firm",
+    "gold": "JJ",
+    "prediction": "NN"
+  },
+  {
+    "sentence": 33,
+    "position": 47,
+    "word": "blend",
+    "gold": "NN",
+    "prediction": "VB"
+  },
+  {
+    "sentence": 34,
+    "position": 2,
+    "word": "all",
+    "gold": "PDT",
+    "prediction": "DT"
+  }
+]
